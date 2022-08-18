@@ -1,0 +1,16 @@
+PODS:
+  - TSnackBarView (1.0.0)
+
+DEPENDENCIES:
+  - TSnackBarView (from `../`)
+
+EXTERNAL SOURCES:
+  TSnackBarView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TSnackBarView: d34aaa4b81e9db837ac82bbe1a9ca724dadeed25
+
+PODFILE CHECKSUM: 874a8cdd8cb99074619b6d6cf437570763322c0f
+
+COCOAPODS: 1.11.3
