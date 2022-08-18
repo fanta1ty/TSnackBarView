@@ -1,4 +1,4 @@
-![LOGO](https://github.com/fanta1ty/TSwitchLabel/blob/master/ScreenShot/Logo.png)
+![LOGO](https://github.com/fanta1ty/TSnackBarView/blob/master/ScreenShot/Logo.png)
 
 # TSnackBarView
 
@@ -60,7 +60,7 @@ TSnackBarServiceImpl.shared.show(on: view,
     })
 ```
 
-![alt text](https://github.com/fanta1ty/TSwitchLabel/blob/master/ScreenShot/Screen%20Shot.gif)
+![alt text](https://github.com/fanta1ty/TSnackBarView/blob/master/ScreenShot/demo.gif)
 
 ## Requirements
 - iOS 10.0 or later
